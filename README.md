@@ -2,7 +2,7 @@
 
 I have deep understanding of almost all mostly used, powerful and popular OS, tools, languages. And this is the reason I can provide you a solution from thousands of possible solutions that will best fit your requirements.
 
-[**JUMP**](#currently-working-on) **to brief details about my expertise**
+If you are not interested to read in detail about my expertise [**JUMP**](#currently-working-on) **to get a short overview**
 
 
 ## Details about my journey on Computer
