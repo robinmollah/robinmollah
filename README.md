@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I have deep understanding of the computer and internet system. For example, I learned developing web browser, HTTP protocol(or new protocol), networking in between servers and browsers, managing the server, web-server management and web development in various languages. I can suggest you a lot of solutions for your problem from my wide field of expertise including their pros and cons. I can suggest you to make something done in lowest cost and effort.
-
+I have deep understanding of almost all mostly used, powerful and popular OS, tools, languages. And this is the reason I can provide you a solution from thousands of possible solutions that will best fit your requirements.
 
 
 <!--
