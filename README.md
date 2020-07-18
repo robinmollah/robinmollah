@@ -2,6 +2,8 @@
 
 I have deep understanding of almost all mostly used, powerful and popular OS, tools, languages. And this is the reason I can provide you a solution from thousands of possible solutions that will best fit your requirements.
 
+[**JUMP**](#details-about-my-journey-on-computer) **to details about my expertise**
+
 
 <!--
 **robinmollah/robinmollah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
