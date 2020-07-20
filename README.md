@@ -2,7 +2,7 @@
 
 Over the last 8 years, I honed my skill in a broad field of technology, worked individually and with team around the world. I have deep understanding of almost all mostly used, powerful and popular OS, tools, languages. And this is the reason I can provide you a solution from thousands of possible solutions exactly the one that will best fit your requirements.
 
-If you are not interested to read in detail about my expertise [**JUMP**](#currently-working-on) **to get a short overview**
+If you are not interested to read in detail about my expertise [**JUMP**](#work-experience) **to get a short overview**
 
 
 ## Details about my journey on Computer
