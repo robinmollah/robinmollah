@@ -41,13 +41,24 @@ Here are some ideas to get you started:
 ### [Bonton Connect](http://bonton.app)
 ##### Dhaka, Bangladesh
 #### Software Engineer
-Our team developed a complex system to share unused WiFi bandwidth. I was responsible for developing the UI in React, configuring router OS, makings systems to control WiFi sharing etc. This company gave me an opportunity to gain experience in wider range.
+Our team developed a complex system to share unused WiFi bandwidth. I was responsible for:
+- Developing the UI in React,
+- Customizing router linux OS,
+- Making systems to control WiFi sharing
+- 
+This company gave me an opportunity to gain experience in wider range.
 
 ### [The Seagull Company](https://www.seagullcompany.com/)
 ##### Dallas, Texas
 #### Local and Cloud infrustructure management
-I worked on this company almost 6 months, finding possible solutions for a problem, suggesting best course of action.
-After they chose the solution that best fit their business needs, following their limitation and needs,  developed complex infrustructure in AWS and in-yard, increased whole teams development productivity by automating tasks and reduced costs by optimizing in every level of the system.
+- Finding all possible solutions for a problem
+- Co-operating in analysing business needs and limitations
+- Suggesting best course of action
+- Working with networking, web and app development team
+- Developing complex infrustructure in AWS and in-yard
+- Increasing teams development productivity by automating tasks
+- Analysing previous system to find possible ways to reduce costs or increase customer experience
+- 
 
 ### [ViewTek.Es](http://viewtek.es)
 ##### Malaga, Spain
