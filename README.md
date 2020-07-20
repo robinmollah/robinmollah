@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have deep understanding of almost all mostly used, powerful and popular OS, tools, languages. And this is the reason I can provide you a solution from thousands of possible solutions that will best fit your requirements.
+Over the last 8 years, I honed my skill in a broad field of technology, worked individually and with team around the world. I have deep understanding of almost all mostly used, powerful and popular OS, tools, languages. And this is the reason I can provide you a solution from thousands of possible solutions exactly the one that will best fit your requirements.
 
 If you are not interested to read in detail about my expertise [**JUMP**](#currently-working-on) **to get a short overview**
 
@@ -37,9 +37,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Currently working on
-### Bonton Connect
+## Work experience
+### [Bonton Connect](http://bonton.app)
+##### Dhaka, Bangladesh
 #### Software Engineer
+First time full-time job along with studying in BRAC University. I used all my skills in here to develop a complex system share unused bandwidth for WiFi.
+
+### [The Seagull Company](https://www.seagullcompany.com/)
+##### Dallas, Texas
+#### Local and Cloud infrustructure management
+I worked on this company almost 6 months, developed their complex infrustructure in AWS, increased development pace by automating tasks, 
+reduced costs by optimizing in every level of the system.
+
+### [ViewTek.Es](http://viewtek.es)
+##### Malaga, Spain
+#### Web UI Design
+Developed iOS like UI Components for their mobile application and web interface
 
 ## Currently Learning
 Advanced Machine Learning   
