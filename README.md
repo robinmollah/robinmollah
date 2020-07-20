@@ -41,27 +41,27 @@ Here are some ideas to get you started:
 ### [Bonton Connect](http://bonton.app)
 ##### Dhaka, Bangladesh
 #### Software Engineer
-First time full-time job along with studying in BRAC University. I used all my skills in here to develop a complex system share unused bandwidth for WiFi.
+Our team developed a complex system to share unused WiFi bandwidth. I was responsible for developing the UI in React, configuring router OS, makings systems to control WiFi sharing etc. This company gave me an opportunity to gain experience in wider range.
 
 ### [The Seagull Company](https://www.seagullcompany.com/)
 ##### Dallas, Texas
 #### Local and Cloud infrustructure management
-I worked on this company almost 6 months, developed their complex infrustructure in AWS, increased development pace by automating tasks, 
-reduced costs by optimizing in every level of the system.
+I worked on this company almost 6 months, finding possible solutions for a problem, suggesting best course of action.
+After they chose the solution that best fit their business needs, following their limitation and needs,  developed complex infrustructure in AWS and in-yard, increased whole teams development productivity by automating tasks and reduced costs by optimizing in every level of the system.
 
 ### [ViewTek.Es](http://viewtek.es)
 ##### Malaga, Spain
 #### Web UI Design
-Developed iOS like UI Components for their mobile application and web interface
+Developed iOS like UI Components for their mobile application and web interface.
 
 ## Currently Learning
 Advanced Machine Learning   
 Data Science   
 
-## Looking for help with
+## Volunteering on
 BracU Bot
 
-## Ask me about
+## Tree of expertise
 * Development
   * Web Development
     * Frontend
