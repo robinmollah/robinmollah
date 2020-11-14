@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 #### Software Engineer
 Our team developed a complex system to share unused WiFi bandwidth. I was responsible for:
 - Developing the UI in React,
+- Writing Native Modules in Kotlin
+- Developing Android apps
 - Customizing router linux OS,
 - Making systems to control WiFi sharing
 - 
