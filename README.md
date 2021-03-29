@@ -35,14 +35,12 @@ This company gave me an opportunity to gain experience in wider range.
 ### [The Seagull Company](https://www.seagullcompany.com/)
 ##### Dallas, Texas
 #### Local and Cloud infrustructure management
-- Finding all possible solutions for a problem
-- Co-operating in analysing business needs and limitations
-- Suggesting best course of action
-- Working with networking, web and app development team
-- Developing complex infrustructure in AWS and in-yard
-- Increasing teams development productivity by automating tasks
-- Analysing previous system to find possible ways to reduce costs or increase customer experience
-- 
+- Managing large cloud infrastructure
+- Optimizing networking 
+- Maintaining repository
+- Managing micro services and there interactions
+- Attending meeting with different companies
+- Containerising different services
 
 ### [ViewTek.Es](http://viewtek.es)
 ##### Malaga, Spain
