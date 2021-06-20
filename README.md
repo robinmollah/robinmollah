@@ -24,22 +24,22 @@ Here are some ideas to get you started:
 ##### Dhaka, Bangladesh
 #### Software Engineer
 Our team developed a complex system to share unused WiFi bandwidth. I was responsible for:
+- Developing complex networking related systems like several microservices running in machines with no static IP.
 - Developing the UI in React,
-- Writing Native Modules in Kotlin
-- Developing Android apps
+- Writing React Native Modules in Kotlin
+- Developing Android apps in React Native
 - Customizing router linux OS,
 - Making systems to control WiFi sharing
-- 
 This company gave me an opportunity to gain experience in wider range.
 
 ### [The Seagull Company](https://www.seagullcompany.com/)
 ##### Dallas, Texas
 #### Local and Cloud infrustructure management
-- Managing large cloud infrastructure
-- Optimizing networking 
-- Maintaining repository
+- Managing large cloud infrastructure in AWS and Azure
+- Optimizing networking between services
+- Maintaining code repository
 - Managing micro services and there interactions
-- Attending meeting with different companies
+- Attending meeting with different companies for requirement analysis and ensuring if the requirements can be met in all desktop computes, Android and iOs Devices.
 - Containerising different services
 
 ### [ViewTek.Es](http://viewtek.es)
