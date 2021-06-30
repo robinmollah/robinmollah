@@ -112,10 +112,42 @@ BracU Bot
       * Ruby/RubyOnRails **[Learning]**
   * App Development
     * Android
+      * Kotlin
+      * Java
     * ReactNative
 * Cloud Computing
   * Amazon Web Service
+    * EC2
+    * S3
+    * Lambda
+    * ECS
+    * CloudFormation
+    * SES
+    * SQS
+    * SNS
+    * Route53
+    * LightSail
+    * DynamoDB
+    * Wavelength
+    * VPC
+    * Cognito
   * Google Cloud Platform
+    * Firebase
+    * Firebase Auth
+    * Firestore
+    * Google App Engine
+    * Virtual Machines
+* DevOps
+  * Super comfortable with shell
+  * Linux
+  * Windows
+    * Powershell and CMD Scripting
+  * CI
+    * Gitlab CI
+    * Github Actions
+    * Jenkins
+* Testing
+  * Puppeteer
 * Cyber Security
   * Network
   * Malware development
