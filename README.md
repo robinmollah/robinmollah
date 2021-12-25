@@ -136,7 +136,8 @@ BracU Bot
     * Firebase Auth
     * Firestore
     * Google App Engine
-    * Virtual Machines
+    * Cloud functions
+    * Compute Engine
 * DevOps
   * Super comfortable with shell
   * Linux
@@ -146,6 +147,9 @@ BracU Bot
     * Gitlab CI
     * Github Actions
     * Jenkins
+  * CloudFormation
+  * Serverless Frameworks
+  * Terraform
 * Testing
   * Puppeteer
 * Cyber Security
