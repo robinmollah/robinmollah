@@ -1,6 +1,7 @@
+# Robin Mollah
 ### Hi there 👋
 
-Over the last 8 years, I honed my skill in a broad field of technology, worked individually and with team around the world. I have deep understanding of almost all mostly used, powerful and popular OS, tools, languages. And this is the reason I can provide you a solution from thousands of possible solutions exactly the one that will best fit your requirements.
+Over the last 11 years, I honed my skill in a broad field of technology, worked individually and with team around the world. I have deep understanding of almost all mostly used, powerful and popular OS, tools, languages. And this is the reason I can provide you a solution from thousands of possible solutions exactly the one that will best fit your requirements.
 
 If you are not interested to read in detail about my expertise [**JUMP**](#work-experience) **to get a short overview**
 
@@ -47,14 +48,10 @@ This company gave me an opportunity to gain experience in wider range.
 #### Web UI Design
 Developed iOS like UI Components for their mobile application and web interface.
 
-## Currently Learning
-Advanced Machine Learning   
-Data Science   
-
 ## Volunteering on
 BracU Bot
 
-<h3>Things I code with</h3>
+### Things I code with
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-8DD6F9?style=flat-square&logo=unity&logoColor=white" />
@@ -101,9 +98,14 @@ BracU Bot
 
 * Development
   * Web Development
-    * Frontend
+    * Frontend Frameworks
       * React
       * Vue
+    * UI
+      * Bootstrap
+      * Material
+      * Semantic UI
+      * Chakra UI
     * Backend
       * PHP/Laravel
       * NodeJS/Express
@@ -138,6 +140,7 @@ BracU Bot
     * Google App Engine
     * Cloud functions
     * Compute Engine
+    * Kubernetes
 * DevOps
   * Super comfortable with shell
   * Linux
@@ -163,6 +166,7 @@ BracU Bot
   * NLP
 
 ## Reach ME
-<h3>Where to find me</h3>
+### Where to find me
+#### [Robin.Engineer](https://robin.engineer)
 <p><a href="https://github.com/robinmollah" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/robinsajin" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/robinmollah" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@robinmollah" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
