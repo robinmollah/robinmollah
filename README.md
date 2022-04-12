@@ -1,6 +1,4 @@
-# Robin Mollah
-### Hi there 👋
-
+# Robin Mollah 😎
 I am Robin Mollah. I started my journey in Computer Technology in childhood. I started with Web development, then Android App and Game development. I loved to create websites, apps and games at early age. I have deep understanding of almost all mostly used, powerful and popular OS, tools, programming languages. And this is the reason I can provide you a solution from thousands of possible solutions exactly the one that will best fit your requirements.
 
 If you are not interested to read in detail about my expertise [**JUMP**](#work-experience) **to get a short overview**
