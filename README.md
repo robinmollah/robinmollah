@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ## Work experience
 
 ### [Eagle 3D Streaming](https://eagle3dstreaming.com)
-#### Texas, USA
-### DevOps Engineer (Remote)
-##### March 2021 - Present
+##### Texas, USA
+#### DevOps Engineer (Remote)
+###### March 2021 - Present
 - Maintaining and improving several projects on NodeJS, ReactJS, Vue, Quasar
 - NodeJS in Ubuntu, Cloud functions, Lambda and AppEngine
 - ReactJS deployed in CloudFront, S3, Nginx’ed Linux server
