@@ -21,6 +21,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Work experience
+
+### [Eagle 3D Streaming](https://eagle3dstreaming.com)
+#### Texas, USA
+### DevOps Engineer (Remote)
+##### March 2021 - Present
+- Maintaining and improving several projects on NodeJS, ReactJS, Vue, Quasar
+- NodeJS in Ubuntu, Cloud functions, Lambda and AppEngine
+- ReactJS deployed in CloudFront, S3, Nginx’ed Linux server
+- Linting, ensuring coding practices, scalability from dev and prod perspective
+- Improving asynchronous workflow of developers
+- CI/CD
+- Managing cloud infrastructure of Video and Event Streaming Service
+- Cost-efficient solution for graphics-heavy computation
+- Ensuring the availability of network sensitive and mission-critical services worldwide
+
+
 ### [Bonton Connect](http://bonton.app)
 ##### Dhaka, Bangladesh
 #### Software Engineer
@@ -36,7 +52,7 @@ This company gave me an opportunity to gain experience in wider range.
 ### [The Seagull Company](https://www.seagullcompany.com/)
 ##### Dallas, Texas
 #### Local and Cloud infrustructure management
-- Managing large cloud infrastructure in AWS and Azure
+- Managing large cloud infrastructure in AWS, Azure
 - Optimizing networking between services
 - Maintaining code repository
 - Managing micro services and there interactions
