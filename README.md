@@ -20,10 +20,19 @@ Here are some ideas to get you started:
 -->
 ## Work experience
 
+### [GoBubble](https://gobubblehq.com)
+##### Chester, England
+#### Fullstack Developer (Remote)
+##### June 2022 - Present
+- Developing and maintaining FastAPI based 
+- Integration of different social media APIs.
+- Maintaing Angular based User Interfaces.
+
+
 ### [Eagle 3D Streaming](https://eagle3dstreaming.com)
 ##### Texas, USA
 #### DevOps Engineer (Remote)
-###### March 2021 - Present
+###### March 2021 - May 2022
 - Maintaining and improving several projects on NodeJS, ReactJS, Vue, Quasar
 - NodeJS in Ubuntu, Cloud functions, Lambda and AppEngine
 - ReactJS deployed in CloudFront, S3, Nginx’ed Linux server
@@ -56,11 +65,6 @@ This company gave me an opportunity to gain experience in wider range.
 - Managing micro services and there interactions
 - Attending meeting with different companies for requirement analysis and ensuring if the requirements can be met in all desktop computes, Android and iOs Devices.
 - Containerising different services
-
-### [ViewTek.Es](http://viewtek.es)
-##### Malaga, Spain
-#### Web UI Design
-Developed iOS like UI Components for their mobile application and web interface.
 
 ## Volunteering on
 BracU Bot
@@ -160,6 +164,9 @@ BracU Bot
     * Cloud functions
     * Compute Engine
     * Kubernetes
+    * GCR
+  * Azure
+    * 
 * DevOps
   * Super comfortable with shell
   * Linux
