@@ -118,7 +118,8 @@ BracU Bot
   * Web Development
     * Frontend Frameworks
       * React
-      * Vue
+      * Angular
+      * Vue [Basic]
     * UI
       * Bootstrap
       * Material
@@ -129,7 +130,6 @@ BracU Bot
       * NodeJS/Express
       * Python/Django
       * Lua/LucI
-      * Ruby/RubyOnRails **[Learning]**
   * App Development
     * Android
       * Kotlin
@@ -157,17 +157,23 @@ BracU Bot
     * VPC
     * Cognito
   * Google Cloud Platform
+    * Cloud Build
+    * Kubernetes Engine
+    * Google Container Registry
+    * Compute Engine
+    * Google App Engine
+    * Cloud Functions
     * Firebase
     * Firebase Auth
     * Firestore
-    * Google App Engine
-    * Cloud functions
-    * Compute Engine
-    * Kubernetes
-    * GCR
+    * PubSub
+    * Cloud Storage
   * Azure
-    * 
+    * Azure Kubernetes Engine
+    * CosmosDB Postgres and MongoDB
 * DevOps
+  * GCP
+  * AWS
   * Super comfortable with shell
   * Linux
   * Windows
