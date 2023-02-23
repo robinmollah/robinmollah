@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### [GoBubble](https://gobubblehq.com)
 ##### Chester, England
-#### Fullstack Developer (Remote)
+#### DevOps Engineer (Remote)
 ###### June 2022 - Present
 - Developing and maintaining FastAPI based 
 - Integration of different social media APIs.
