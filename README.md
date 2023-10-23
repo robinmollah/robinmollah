@@ -1,7 +1,7 @@
 # Robin Mollah 😎
-I am Robin Mollah. I started my journey in Computer Technology in childhood. I started with Web development, then Android App and Game development. I loved to create websites, apps and games at early age. I have deep understanding of almost all mostly used, powerful and popular OS, tools, programming languages. And this is the reason I can provide you a solution from thousands of possible solutions exactly the one that will best fit your requirements.
+I am Robin Mollah. I started my journey in Computer Technology in childhood. I started with Web development, then Android App and Game development. I loved to create websites, apps, and games at an early age. I have a deep understanding of almost all the most used, powerful, and popular OS, tools, and programming languages. And this is the reason I can provide you a solution from thousands of possible solutions exactly the one that will best fit your requirements.
 
-If you are not interested to read in detail about my expertise [**JUMP**](#work-experience) **to get a short overview**
+If you are not interested in reading in detail about my expertise [**JUMP**](#work-experience) **to get a short overview**
 
 
 <!--
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ###### June 2022 - Present
 - Developing and maintaining FastAPI based 
 - Integration of different social media APIs.
-- Maintaing Angular based User Interfaces.
+- Maintaining Angular-based User Interfaces.
 
 
 ### [Eagle 3D Streaming](https://eagle3dstreaming.com)
@@ -48,22 +48,22 @@ Here are some ideas to get you started:
 ##### Dhaka, Bangladesh
 #### Software Engineer
 Our team developed a complex system to share unused WiFi bandwidth. I was responsible for:
-- Developing complex networking related systems like several microservices running in machines with no static IP.
+- Developing complex networking-related systems like several microservices running in machines with no static IP.
 - Developing the UI in React,
 - Writing React Native Modules in Kotlin
 - Developing Android apps in React Native
-- Customizing router linux OS,
+- Customizing router Linux OS,
 - Making systems to control WiFi sharing
-This company gave me an opportunity to gain experience in wider range.
+This company gave me an opportunity to gain experience in a wider range.
 
 ### [The Seagull Company](https://www.seagullcompany.com/)
 ##### Dallas, Texas
-#### Local and Cloud infrustructure management
+#### Local and Cloud infrastructure management
 - Managing large cloud infrastructure in AWS, Azure
 - Optimizing networking between services
 - Maintaining code repository
-- Managing micro services and there interactions
-- Attending meeting with different companies for requirement analysis and ensuring if the requirements can be met in all desktop computes, Android and iOs Devices.
+- Managing microservices and their interactions
+- Attending meetings with different companies for requirement analysis and ensuring that the requirements can be met in all desktop computes, Android and iOs Devices.
 - Containerising different services
 
 ## Volunteering on
@@ -180,7 +180,7 @@ BracU Bot
     * Powershell and CMD Scripting
   * CI
     * Gitlab CI
-    * Github Actions
+    * GitHub Actions
     * Jenkins
   * CloudFormation
   * Serverless Frameworks
