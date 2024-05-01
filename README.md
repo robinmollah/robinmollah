@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 ## Work experience
 
-### [GoBubble](https://gobubblehq.com)
+### [GoBubble AI Tech Ltd](https://gobubblehq.com)
 #### 1. DevOps Engineer (Remote)
 ##### Chester, England
 ###### June 2022 - November 2023
