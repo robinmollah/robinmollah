@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 ## Work experience
 
 ### [GoBubble](https://gobubblehq.com)
+#### 1. DevOps Engineer (Remote)
 ##### Chester, England
-#### DevOps Engineer (Remote)
 ###### June 2022 - November 2023
 - Developing and maintaining FastAPI based 
 - Integration of different social media APIs.
 - Maintaining Angular-based User Interfaces.
 
+#### 2. Technical Lead (Onsite)
 ##### Dubai, UAE
-#### Technical Lead (Onsite)
 December 2023 - Present
 1. Actively involvement development teams
 2. Technical planning and distribution as workable tasks
