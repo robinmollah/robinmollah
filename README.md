@@ -23,10 +23,24 @@ Here are some ideas to get you started:
 ### [GoBubble](https://gobubblehq.com)
 ##### Chester, England
 #### DevOps Engineer (Remote)
-###### June 2022 - Present
+###### June 2022 - November 2023
 - Developing and maintaining FastAPI based 
 - Integration of different social media APIs.
 - Maintaining Angular-based User Interfaces.
+
+##### Dubai, UAE
+#### Technical Lead (Onsite)
+December 2023 - Present
+1. Actively involvement development teams
+2. Technical planning and distribution as workable tasks
+2. Software Architecture and design
+3. Code quality enforcement and review
+4. Technical mentoring to team members
+5. Responsible to manage the technical risks
+6. Requirement analysis of new requests
+7. Leading technical documentation
+8. Ability to respond to any technical queries
+9. Take leads on incident management, prepare reports
 
 
 ### [Eagle 3D Streaming](https://eagle3dstreaming.com)
@@ -185,11 +199,16 @@ BracU Bot
   * CloudFormation
   * Serverless Frameworks
   * Terraform
+  * Kubernetes
+    * Helm
+    * Kustomize
+    * ArgoCD
 * Testing
   * Puppeteer
+  * Pytest
 * Cyber Security
-  * Network
-  * Malware development
+  * Network Security
+  * Sophisticated Malware development
 * Data Science
   * Statistics
   * Numpy
