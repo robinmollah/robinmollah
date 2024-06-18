@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 #### 2. Technical Lead (Onsite)
 ##### Dubai, UAE
 December 2023 - Present
-1. Actively involvement development teams
+1. Active involvement with development teams
 2. Technical planning and distribution as workable tasks
 2. Software Architecture and design
 3. Code quality enforcement and review
@@ -40,7 +40,7 @@ December 2023 - Present
 6. Requirement analysis of new requests
 7. Leading technical documentation
 8. Ability to respond to any technical queries
-9. Take leads on incident management, prepare reports
+9. Take leads on incident management
 
 
 ### [Eagle 3D Streaming](https://eagle3dstreaming.com)
