@@ -21,26 +21,29 @@ Here are some ideas to get you started:
 ## Work experience
 
 ### [GoBubble AI Tech Ltd](https://gobubblehq.com)
-#### 1. DevOps Engineer (Remote)
-##### Chester, England
-###### June 2022 - November 2023
-- Developing and maintaining FastAPI based 
-- Integration of different social media APIs.
-- Maintaining Angular-based User Interfaces.
-
-#### 2. Technical Lead (Onsite)
+#### 1. Technical Lead (Onsite)
 ##### Dubai, UAE
 December 2023 - Present
-1. Active involvement with development teams
+1. Active involvement with backend, frontend and DevOps development team
 2. Technical planning and distribution as workable tasks
-2. Software Architecture and design
-3. Code quality enforcement and review
-4. Technical mentoring to team members
+3. Destructuring Epics into actionable items, technical descriptions of specific things need to be done
+2. Overall architecture and design from the beginning of the requirement analysis, destructuring and structuring the tasks into a deliverable feature
+3. Reviewing PRs from Backend and DevOps team.
+4. Technical mentoring to team members, answering questions from all the teams.
 5. Responsible to manage the technical risks
-6. Requirement analysis of new requests
-7. Leading technical documentation
-8. Ability to respond to any technical queries
-9. Take leads on incident management
+6. Leading technical documentations
+7. First point of contact on incident management
+
+#### 2. Software Engineer (Remote)
+##### Chester, England
+###### June 2022 - November 2023
+
+- Developing new features and maintaining FastAPI based backend applications.
+- Maintaining Angular and react-based frontend applications.
+
+Gradually, anything that requires quickly and robust, came to my table to make it done. I worked on different roles in different time periods. As I had the ability to deliver things quickly and had diverse skillset, I have been pulled into backend, frontend and DevOps mostly.
+
+
 
 
 ### [Eagle 3D Streaming](https://eagle3dstreaming.com)
