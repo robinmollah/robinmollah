@@ -19,7 +19,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Work experience
-
+```mermaid
+timeline
+  2011: Started web developmenet [Age 12]
+  2011-2014: Kept working on properbd.com
+  2015: Launched first Android Application Keyboard
+  2016: Completed Grade 12 : Launched first Android Game named 1971 Hit And Run
+  2018: Admission to Undergrad at BRAC University : Launched a Facebook Messenger bot for frequently asked questions
+  2019: Participated in NASA Space Apps Challenge(?)
+  2020: Joined Bonton Connect
+  2021: Joined Eagle 3D Streaming
+  2023: Joined GoBubble AI Tech Limited as Backend Developer : Later kept working on DevOps and Backend both
+  2024: Promoted as a Technical Lead
+```
 ### [GoBubble AI Tech Ltd](https://gobubblehq.com)
 #### 1. Technical Lead (Onsite)
 ##### Dubai, UAE
