@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 -->
 ## Work experience
 ```mermaid
+%%{init: {'theme':'forest'}}%%
 timeline
   2011: Started web developmenet [Age 12]
   2011-2014: Kept working on properbd.com
