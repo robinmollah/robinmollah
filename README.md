@@ -30,8 +30,8 @@ timeline
   2019: Participated in NASA Space Apps Challenge(?)
   2020: Joined Bonton Connect
   2021: Joined Eagle 3D Streaming
-  2023: Joined GoBubble AI Tech Limited as Backend Developer : Later kept working on DevOps and Backend both
-  2024: Promoted as a Technical Lead
+  2022: Joined GoBubble AI Tech Limited as Backend Developer : Later kept working on DevOps and Backend both
+  2023: Promoted as a Technical Lead
 ```
 ### [GoBubble AI Tech Ltd](https://gobubblehq.com)
 #### 1. Technical Lead (Onsite)
