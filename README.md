@@ -32,6 +32,7 @@ timeline
   2021: Joined Eagle 3D Streaming
   2022: Joined GoBubble AI Tech Limited as Backend Developer : Later kept working on DevOps and Backend both
   2023: Promoted as a Technical Lead
+  2024-2026: Continued working at GoBubble AI Tech Limited
 ```
 ### [GoBubble AI Tech Ltd](https://gobubblehq.com)
 #### 1. Technical Lead (Onsite)
