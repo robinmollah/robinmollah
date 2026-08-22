@@ -1,5 +1,22 @@
 # Robin Mollah 😎
-I am Robin Mollah. I started my journey in Computer Technology in childhood. I started with Web development, then Android App and Game development. I loved to create websites, apps, and games at an early age. I have a deep understanding of almost all the most used, powerful, and popular OS, tools, and programming languages. And this is the reason I can provide you a solution from thousands of possible solutions exactly the one that will best fit your requirements.
+I'm Robin Mollah — a Software Engineer with 12+ years of experience building systems that have to work beyond the happy path.
+
+My work sits at the intersection of **software architecture, AI, data engineering, cloud infrastructure, and automation**.
+
+I primarily work with **Python, FastAPI, Flutter, Android development, AWS, GCP, data pipelines, AI systems, React**, with a particular interest in building efficient, scalable solutions that minimize token usage, latency, infrastructure cost, and unnecessary complexity.
+
+Over the years, I've worked on systems ranging from:
+
+* ingesting millions of social-media messages per hour
+* processing and analyzing terabytes of data without losing track of records
+* real-time WebRTC streaming platforms
+* SaaS and automation systems
+* mobile applications
+* customized operating systems for Wi-Fi router hardware
+
+I enjoy problems involving scale, unusual constraints, difficult debugging, and unfamiliar systems.
+
+**Build it simply. Make it efficient. Understand how it actually works.**
 
 If you are not interested in reading in detail about my expertise [**JUMP**](#work-experience) **to get a short overview**
 
