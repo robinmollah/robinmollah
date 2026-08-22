@@ -1,5 +1,5 @@
 # Robin Mollah 😎
-I'm Robin Mollah — a Software Engineer with 12+ years of experience building systems that have to work beyond the happy path.
+I'm Robin Mollah, a Software Engineer with 12+ years of experience building systems that have to work beyond the happy path.
 
 My work sits at the intersection of **software architecture, AI, data engineering, cloud infrastructure, and automation**.
 
